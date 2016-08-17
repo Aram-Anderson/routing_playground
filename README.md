@@ -48,7 +48,7 @@ end
 
 ## Public vs. Controllers
 
-- Check your routes file for a "get '/nested/index.html'"
+- Check your routes file for a `get '/nested/index.html'`
 - Notice that there's also a file called `index.html` in your `/public/nested/` directory.
 - Which do you think will render if you visit `/nested/index.html`?
 - Visit `/nested/index.html`
@@ -66,9 +66,9 @@ end
     - one in `/public/nested/css`
 - Open both files.
 - Which is currently being used for the page if you visit `/nested/index.html`?
-- Go ahead and edit the css link in `/public/nested/index.html` to include a leading `/` (`/css/nested.css`)
+- Go ahead and edit the css link in `/public/nested/index.html` to include a leading `/` (e.g. `/css/nested.css`)
 - Reload and check to see which is being used now.
 
 ## Review
 
-- Based on all of the above, can you write a quick summary of some basic rules for how routing works in Sinatra?
+Based on all of the above, write a quick summary of some basic rules for how routing works in Sinatra?
