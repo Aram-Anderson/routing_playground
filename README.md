@@ -71,4 +71,4 @@ end
 
 ## Review
 
-Based on all of the above, write a quick summary of some basic rules for how routing works in Sinatra?
+Based on all of the above, write a quick summary of some basic rules for how routing works in Sinatra.
