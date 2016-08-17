@@ -1,6 +1,6 @@
 # Routes Playground
 
-Routes Playground is a simple app built with Sinatra to explore and illustrate how routing works in Sinatra. In order to use it, run `shotgun` from the command line in the routing_playground directory.
+Routes Playground is a simple app built with Sinatra to explore and illustrate how routing works in Sinatra. In order to use it, clone this repo, cd into it in your terminal, and run `shotgun` from the command line in the routing_playground directory. You should see your server start up.
 
 Once you have it up and running, use the following steps/questions to guide your exploration. Later instructions depend on earlier changes, so if you don't go step by step there's a decent chance that later steps will break.
 
